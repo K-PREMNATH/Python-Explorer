@@ -45,4 +45,3 @@ if bbox is not None:
     print(f"QRCode data: {data}")
 
 
-
